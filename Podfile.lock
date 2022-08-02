@@ -1,0 +1,16 @@
+PODS:
+  - KCCircularTimer (0.1.1)
+
+DEPENDENCIES:
+  - KCCircularTimer
+
+SPEC REPOS:
+  trunk:
+    - KCCircularTimer
+
+SPEC CHECKSUMS:
+  KCCircularTimer: 68d1217162447845db9657dacf7fb64733d1f0f7
+
+PODFILE CHECKSUM: 8613972fe53d4b018bc26a265afe47d59a0227c7
+
+COCOAPODS: 1.11.3
